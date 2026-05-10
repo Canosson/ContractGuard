@@ -2,7 +2,7 @@
 
 An AI-powered Swedish contract law analysis tool. Upload a PDF contract and receive a structured legal risk report, plus a Q&A interface to ask questions about specific clauses.
 
-![ContractGuard screenshot](assets/ContractGuard.png)
+<img width="3010" height="1528" alt="ContractGuard" src="https://github.com/user-attachments/assets/d6e65642-8316-40cf-9cea-3ec21ede658f" />
 
 ## Features
 
